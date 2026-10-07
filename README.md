@@ -1,2 +1,6 @@
-README.md
 index.html
+styles.css
+script.js
+favicon.svg
+vercel.json
+README.md
